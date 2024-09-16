@@ -16,7 +16,7 @@ Create a `index.py` file to get started and try to replicate it.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 - [Python](https://python.org)
-- [stmplib](https://docs.python.org/3/library/smtplib.html)
+- [smtplib](https://docs.python.org/3/library/smtplib.html)
 - [Google App Password](https://myaccount.google.com/apppasswords)
 ### Prerequisites
 
@@ -80,4 +80,4 @@ Project Link: [https://github.com/LimitedIsListed/Python-Login](https://github.c
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 
-- [stmplib](https://docs.python.org/3/library/smtplib.html)
+- [smtplib](https://docs.python.org/3/library/smtplib.html)
