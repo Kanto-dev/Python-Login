@@ -57,10 +57,10 @@ def send_otp_email(otp, to_email):
     server.login(from_email, '')
 
     msg = EmailMessage()
-    msg['subject'] = "Verify Your Kovich Account"
+    msg['subject'] = "OTP Verification | Made by LimitedIsListed"
     msg['From'] = from_email
     msg['To'] = to_email
-    msg.set_content("Your OTP is: " + otp)
+    msg.set_content(username, "Your OTP is: " + otp)
 
     server.send_message(msg)
     server.quit()
